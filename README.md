@@ -8,7 +8,7 @@ A self-healing, auto-scaling web infrastructure provisioned entirely with Terraf
 
 
 
-![Architecture image](data\Architecture.jpg)
+![Architecture image](./data/Architecture.jpg)
 
 
 
