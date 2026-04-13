@@ -97,6 +97,8 @@ auto-healing-web-tier/
 │   ├── security-groups/             # ALB
 │   ├── alb/                         # Application Load Balancer
 │   └── asg/                         # Auto Scaling Group
+├── scripts/
+│   └── user-data.sh.tpl             # Cloud-init script
 ├── Dockerfile                       # Containerised NGINX page
 ├── .github/workflows/
 │   └── ci.yml                       # CI: plan
